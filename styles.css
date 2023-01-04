@@ -1,0 +1,15 @@
+.player-hand {
+    border: 5px solid black;
+    width: 500px;
+    height: 300px;
+}
+
+#hit {
+    margin-bottom: 50px;
+}
+
+.dealer-hand {
+    border: 5px solid black;
+    width: 500px;
+    height: 300px;
+}
